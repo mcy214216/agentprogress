@@ -34,6 +34,7 @@ weather_tool = WeatherTool(api_key)
 print(weather_tool.run("成都"))
 print(weather_tool.run("北京"))
 ```  
+
 其结果如下：  
 ![img.png](markdown照片使用/img.png)
 ### 2.模型通过调用api来获取信息来回答问题
